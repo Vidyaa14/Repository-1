@@ -1,8 +1,1 @@
-<html>
-<head>
-<title> Hello Everyone ! </title>
-</head>
-<body>
-<hl> This is Vidya from div 2 </h1>
-</body>
-</html>
+
